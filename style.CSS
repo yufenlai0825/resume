@@ -49,6 +49,10 @@ h3 {
   /*normal: 400, medium: 500, bold: 600*/
 }
 
+.language {
+  font-weight: 350;
+}
+
 section {
   margin-bottom: 48px;
 }
